@@ -47,6 +47,7 @@ type(Nro_Complejo)
 
 # %%
 Nro_Pi =  3.1416
+print(round(Nro_Pi,4))
 
 # %% [markdown]
 # 8. Crear una variable que contenga el valor 'True' y otra que contenga el valor True. ¿Se trata de lo mismo?
